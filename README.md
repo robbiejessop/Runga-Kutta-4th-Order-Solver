@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @robbiejessop
-- 👀 I’m interested in python coding with a focus on engineering applications
-- 📫 How to reach me email: robbiejessop@gmail.com
